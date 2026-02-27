@@ -6,8 +6,6 @@
 - [Prof. Bahrak's Youtube Channel](https://www.youtube.com/@BahrakCourses)
 
 
-# Course Schedule (Fall 2025)
-
 # Course Schedule
 
 | Week | Lectures | Videos/Additional Resources | Assignments | Assignments Related Videos |
