@@ -1,9 +1,10 @@
 # 📊 Foundations of Data Science – Spring 2026
 
+
 > Official course repository for **Foundations of Data Science**  
 > University of Tehran — Spring 2026  
-> Instructor: **Prof. Bahrak**  
-> Maintained by the **Chief TA**
+> Instructors: **Dr. Razavi, Dr. Yaghoobzadeh**  
+> Chief TAs: [**Mostafa Kermani Nia**](https://github.com/mostafa-kermaninia) , [**Mohammad Amanlou**](https://github.com/MohammadAmanlou)
 
 ---
 
