@@ -45,20 +45,20 @@
 
 | Week | Topic (Slides) | Assignments & Project | Extra Resources |
 |:----:|:---------------|:----------------------|:----------------|
-| 1 | **Introduction – Data Science Lifecycle**<br>`Lecture 01. Data Science Lifecycle.pdf` | – | Python for DS Notebooks |
-| 2 | **Statistical Charts**<br>`Lecture 02. Statistical Charts.pdf` | – | – |
-| 3 | **Review of Probability Theory**<br>`Lecture 03. A Review of Probability Theory.pdf` | **CA0 released** | `More Resources/CA0/` |
-| 4 | **Foundations for Inference**<br>`Lecture 04. Foundations for Inference.pdf`<br>**Visualization Design Principles**<br>`Lecture 05. Visualization Design Principles.pdf` | – | – |
-| 5 | **Preattentive Attributes**<br>`Lecture 06. Preattentive attributes.pdf`<br>**Dashboards & Storytelling**<br>`Lecture 07. Dashboards and Storytelling.pdf` | **CA1 released** | `More Resources/PowerBI/`<br>`More Resources/Sampling/` |
-| 6 | **SQL – Part 1 & 2**<br>`Lecture 09. SQL-1.pdf`<br>`Lecture 09. SQL-2.pdf` | **CA2 released** | – |
-| 7 | **Big Data**<br>`Lecture 10. Big Data.pdf` | **Final Project Phase 1** | – |
-| 8 | **Linear Regression**<br>`Lecture 08. Linear Regression.pdf` | – | – |
-| 9 | **Modeling, SLR, Loss**<br>`Lecture 11. Modeling, SLR, Loss.pptx` | **CA3 released** | – |
-| 10 | **Gradient Descent**<br>`Lecture 12. Gradient descent.pptx`<br>**Logistic Regression (intro)**<br>`Lecture 13. Logistic regression.pptx` | – | – |
-| 11 | **Regression (Advanced)**<br>`Lecture 14. Regression.pdf`<br>**SVM & KNN**<br>`Lecture 14. SVM_KNN.pdf` | **CA4 released**<br>**Final Project Phase 2** | – |
-| 12 | **MLOps**<br>`Lecture 15. MLOps.pptx`<br>**Neural Networks**<br>`Lecture 16. NNs.pptx` | – | `More Resources/MLOps-20260603.zip` |
+| 1 | **Introduction – Data Science Lifecycle**<br>[`Lecture 01. Data Science Lifecycle.pdf`](lectures/Lecture%2001.%20Data%20Science%20Lifecycle.pdf) | – | [Python for DS Notebooks](Python%20for%20Data%20Science%20Notebooks/) |
+| 2 | **Statistical Charts**<br>[`Lecture 02. Statistical Charts.pdf`](lectures/Lecture%2002.%20Statistical%20Charts.pdf) | – | – |
+| 3 | **Review of Probability Theory**<br>[`Lecture 03. A Review of Probability Theory.pdf`](lectures/Lecture%2003.%20A%20Review%20of%20Probability%20Theory.pdf) | [**CA0 released**](Assignments/CA0/) | [`More Resources/CA0/`](More%20Resources/CA0/) |
+| 4 | **Foundations for Inference**<br>[`Lecture 04. Foundations for Inference.pdf`](lectures/Lecture%2004.%20Foundations%20for%20Inference.pdf)<br>**Visualization Design Principles**<br>[`Lecture 05. Visualization Design Principles.pdf`](lectures/Lecture%2005.%20Visualization%20Design%20Principles.pdf) | – | – |
+| 5 | **Preattentive Attributes**<br>[`Lecture 06. Preattentive attributes.pdf`](lectures/Lecture%2006.%20Preattentive%20attributes.pdf)<br>**Dashboards & Storytelling**<br>[`Lecture 07. Dashboards and Storytelling.pdf`](lectures/Lecture%2007.%20Dashboards%20and%20Storytelling.pdf) | [**CA1 released**](Assignments/CA1/) | [`More Resources/PowerBI/`](More%20Resources/PowerBI/)<br>[`More Resources/Sampling/`](More%20Resources/Sampling/) |
+| 6 | **SQL – Part 1 & 2**<br>[`Lecture 09. SQL-1.pdf`](lectures/Lecture%2009.%20SQL-1.pdf)<br>[`Lecture 09. SQL-2.pdf`](lectures/Lecture%2009.%20SQL-2.pdf) | [**CA2 released**](Assignments/CA2/) | – |
+| 7 | **Big Data**<br>[`Lecture 10. Big Data.pdf`](lectures/Lecture%2010.%20Big%20Data.pdf) | [**Final Project Phase 1**](Final%20Project/P1.pdf) | – |
+| 8 | **Linear Regression**<br>[`Lecture 08. Linear Regression.pdf`](lectures/Lecture%2008.%20Linear%20Regression.pdf) | – | – |
+| 9 | **Modeling, SLR, Loss**<br>[`Lecture 11. Modeling, SLR, Loss.pptx`](lectures/Lecture%2011.%20Modeling%2C%20SLR%2C%20Loss.pptx) | [**CA3 released**](Assignments/CA3/) | – |
+| 10 | **Gradient Descent**<br>[`Lecture 12. Gradient descent.pptx`](lectures/Lecture%2012.%20Gradient%20descent.pptx)<br>**Logistic Regression (intro)**<br>[`Lecture 13. Logistic regression.pptx`](lectures/Lecture%2013.%20Logistic%20regression.pptx) | – | – |
+| 11 | **Regression (Advanced)**<br>[`Lecture 14. Regression.pdf`](lectures/Lecture%2014.%20Regression.pdf)<br>**SVM & KNN**<br>[`Lecture 14. SVM_KNN.pdf`](lectures/Lecture%2014.%20SVM_KNN.pdf) | [**CA4 released**](Assignments/CA4/)<br>[**Final Project Phase 2**](Final%20Project/P2.pdf) | – |
+| 12 | **MLOps**<br>[`Lecture 15. MLOps.pptx`](lectures/Lecture%2015.%20MLOps.pptx)<br>**Neural Networks**<br>[`Lecture 16. NNs.pptx`](lectures/Lecture%2016.%20NNs.pptx) | – | [`More Resources/MLOps-20260603.zip`](More%20Resources/MLOps-20260603.zip) |
 | 13 | **Project Work / Review** | – | – |
-| 14 | – | **CA5 (optional)** | – |
+| 14 | – | [**CA5 (optional)**](Assignments/CA5/) | – |
 | 15 | **Final Project Presentations** | – | – |
 | 16 | **Final Project Presentations** | – | – |
 
@@ -72,22 +72,22 @@ All slides are in the [`lectures/`](lectures/) folder:
 
 | # | File |
 |---|------|
-| 01 | `Lecture 01. Data Science Lifecycle.pdf` |
-| 02 | `Lecture 02. Statistical Charts.pdf` |
-| 03 | `Lecture 03. A Review of Probability Theory.pdf` |
-| 04 | `Lecture 04. Foundations for Inference.pdf` |
-| 05 | `Lecture 05. Visualization Design Principles.pdf` |
-| 06 | `Lecture 06. Preattentive attributes.pdf` |
-| 07 | `Lecture 07. Dashboards and Storytelling.pdf` |
-| 08 | `Lecture 08. Linear Regression.pdf` |
-| 09 | `Lecture 09. SQL-1.pdf` & `Lecture 09. SQL-2.pdf` |
-| 10 | `Lecture 10. Big Data.pdf` |
-| 11 | `Lecture 11. Modeling, SLR, Loss.pptx` |
-| 12 | `Lecture 12. Gradient descent.pptx` |
-| 13 | `Lecture 13. Logistic regression.pptx` |
-| 14 | `Lecture 14. Regression.pdf` & `Lecture 14. SVM_KNN.pdf` |
-| 15 | `Lecture 15. MLOps.pptx` |
-| 16 | `Lecture 16. NNs.pptx` |
+| 01 | [`Lecture 01. Data Science Lifecycle.pdf`](lectures/Lecture%2001.%20Data%20Science%20Lifecycle.pdf) |
+| 02 | [`Lecture 02. Statistical Charts.pdf`](lectures/Lecture%2002.%20Statistical%20Charts.pdf) |
+| 03 | [`Lecture 03. A Review of Probability Theory.pdf`](lectures/Lecture%2003.%20A%20Review%20of%20Probability%20Theory.pdf) |
+| 04 | [`Lecture 04. Foundations for Inference.pdf`](lectures/Lecture%2004.%20Foundations%20for%20Inference.pdf) |
+| 05 | [`Lecture 05. Visualization Design Principles.pdf`](lectures/Lecture%2005.%20Visualization%20Design%20Principles.pdf) |
+| 06 | [`Lecture 06. Preattentive attributes.pdf`](lectures/Lecture%2006.%20Preattentive%20attributes.pdf) |
+| 07 | [`Lecture 07. Dashboards and Storytelling.pdf`](lectures/Lecture%2007.%20Dashboards%20and%20Storytelling.pdf) |
+| 08 | [`Lecture 08. Linear Regression.pdf`](lectures/Lecture%2008.%20Linear%20Regression.pdf) |
+| 09 | [`Lecture 09. SQL-1.pdf`](lectures/Lecture%2009.%20SQL-1.pdf) & [`Lecture 09. SQL-2.pdf`](lectures/Lecture%2009.%20SQL-2.pdf) |
+| 10 | [`Lecture 10. Big Data.pdf`](lectures/Lecture%2010.%20Big%20Data.pdf) |
+| 11 | [`Lecture 11. Modeling, SLR, Loss.pptx`](lectures/Lecture%2011.%20Modeling%2C%20SLR%2C%20Loss.pptx) |
+| 12 | [`Lecture 12. Gradient descent.pptx`](lectures/Lecture%2012.%20Gradient%20descent.pptx) |
+| 13 | [`Lecture 13. Logistic regression.pptx`](lectures/Lecture%2013.%20Logistic%20regression.pptx) |
+| 14 | [`Lecture 14. Regression.pdf`](lectures/Lecture%2014.%20Regression.pdf) & [`Lecture 14. SVM_KNN.pdf`](lectures/Lecture%2014.%20SVM_KNN.pdf) |
+| 15 | [`Lecture 15. MLOps.pptx`](lectures/Lecture%2015.%20MLOps.pptx) |
+| 16 | [`Lecture 16. NNs.pptx`](lectures/Lecture%2016.%20NNs.pptx) |
 
 ---
 
