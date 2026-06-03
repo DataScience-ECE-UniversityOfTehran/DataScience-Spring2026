@@ -1,0 +1,220 @@
+Country or territory name,ISO 2-character country/territory code,ISO 3-character country/territory code,ISO numeric country/territory code,Region
+Afghanistan,AF,AFG,4,EMR
+Albania,AL,ALB,8,EUR
+Algeria,DZ,DZA,12,AFR
+American Samoa,AS,ASM,16,WPR
+Andorra,AD,AND,20,EUR
+Angola,AO,AGO,24,AFR
+Anguilla,AI,AIA,660,AMR
+Antigua and Barbuda,AG,ATG,28,AMR
+Argentina,AR,ARG,32,AMR
+Armenia,AM,ARM,51,EUR
+Aruba,AW,ABW,533,AMR
+Australia,AU,AUS,36,WPR
+Austria,AT,AUT,40,EUR
+Azerbaijan,AZ,AZE,31,EUR
+Bahamas,BS,BHS,44,AMR
+Bahrain,BH,BHR,48,EMR
+Bangladesh,BD,BGD,50,SEA
+Barbados,BB,BRB,52,AMR
+Belarus,BY,BLR,112,EUR
+Belgium,BE,BEL,56,EUR
+Belize,BZ,BLZ,84,AMR
+Benin,BJ,BEN,204,AFR
+Bermuda,BM,BMU,60,AMR
+Bhutan,BT,BTN,64,SEA
+Bolivia (Plurinational State of),BO,BOL,68,AMR
+"Bonaire, Saint Eustatius and Saba",BQ,BES,535,AMR
+Bosnia and Herzegovina,BA,BIH,70,EUR
+Botswana,BW,BWA,72,AFR
+Brazil,BR,BRA,76,AMR
+British Virgin Islands,VG,VGB,92,AMR
+Brunei Darussalam,BN,BRN,96,WPR
+Bulgaria,BG,BGR,100,EUR
+Burkina Faso,BF,BFA,854,AFR
+Burundi,BI,BDI,108,AFR
+Cabo Verde,CV,CPV,132,AFR
+Cambodia,KH,KHM,116,WPR
+Cameroon,CM,CMR,120,AFR
+Canada,CA,CAN,124,AMR
+Cayman Islands,KY,CYM,136,AMR
+Central African Republic,CF,CAF,140,AFR
+Chad,TD,TCD,148,AFR
+Chile,CL,CHL,152,AMR
+China,CN,CHN,156,WPR
+"China, Hong Kong SAR",HK,HKG,344,WPR
+"China, Macao SAR",MO,MAC,446,WPR
+Colombia,CO,COL,170,AMR
+Comoros,KM,COM,174,AFR
+Congo,CG,COG,178,AFR
+Cook Islands,CK,COK,184,WPR
+Costa Rica,CR,CRI,188,AMR
+Côte d'Ivoire,CI,CIV,384,AFR
+Croatia,HR,HRV,191,EUR
+Cuba,CU,CUB,192,AMR
+Curaçao,CW,CUW,531,AMR
+Cyprus,CY,CYP,196,EUR
+Czech Republic,CZ,CZE,203,EUR
+Democratic People's Republic of Korea,KP,PRK,408,SEA
+Democratic Republic of the Congo,CD,COD,180,AFR
+Denmark,DK,DNK,208,EUR
+Djibouti,DJ,DJI,262,EMR
+Dominica,DM,DMA,212,AMR
+Dominican Republic,DO,DOM,214,AMR
+Ecuador,EC,ECU,218,AMR
+Egypt,EG,EGY,818,EMR
+El Salvador,SV,SLV,222,AMR
+Equatorial Guinea,GQ,GNQ,226,AFR
+Eritrea,ER,ERI,232,AFR
+Estonia,EE,EST,233,EUR
+Ethiopia,ET,ETH,231,AFR
+Fiji,FJ,FJI,242,WPR
+Finland,FI,FIN,246,EUR
+France,FR,FRA,250,EUR
+French Polynesia,PF,PYF,258,WPR
+Gabon,GA,GAB,266,AFR
+Gambia,GM,GMB,270,AFR
+Georgia,GE,GEO,268,EUR
+Germany,DE,DEU,276,EUR
+Ghana,GH,GHA,288,AFR
+Greece,GR,GRC,300,EUR
+Greenland,GL,GRL,304,EUR
+Grenada,GD,GRD,308,AMR
+Guam,GU,GUM,316,WPR
+Guatemala,GT,GTM,320,AMR
+Guinea,GN,GIN,324,AFR
+Guinea-Bissau,GW,GNB,624,AFR
+Guyana,GY,GUY,328,AMR
+Haiti,HT,HTI,332,AMR
+Honduras,HN,HND,340,AMR
+Hungary,HU,HUN,348,EUR
+Iceland,IS,ISL,352,EUR
+India,IN,IND,356,SEA
+Indonesia,ID,IDN,360,SEA
+Iran (Islamic Republic of),IR,IRN,364,EMR
+Iraq,IQ,IRQ,368,EMR
+Ireland,IE,IRL,372,EUR
+Israel,IL,ISR,376,EUR
+Italy,IT,ITA,380,EUR
+Jamaica,JM,JAM,388,AMR
+Japan,JP,JPN,392,WPR
+Jordan,JO,JOR,400,EMR
+Kazakhstan,KZ,KAZ,398,EUR
+Kenya,KE,KEN,404,AFR
+Kiribati,KI,KIR,296,WPR
+Kuwait,KW,KWT,414,EMR
+Kyrgyzstan,KG,KGZ,417,EUR
+Lao People's Democratic Republic,LA,LAO,418,WPR
+Latvia,LV,LVA,428,EUR
+Lebanon,LB,LBN,422,EMR
+Lesotho,LS,LSO,426,AFR
+Liberia,LR,LBR,430,AFR
+Libya,LY,LBY,434,EMR
+Lithuania,LT,LTU,440,EUR
+Luxembourg,LU,LUX,442,EUR
+Madagascar,MG,MDG,450,AFR
+Malawi,MW,MWI,454,AFR
+Malaysia,MY,MYS,458,WPR
+Maldives,MV,MDV,462,SEA
+Mali,ML,MLI,466,AFR
+Malta,MT,MLT,470,EUR
+Marshall Islands,MH,MHL,584,WPR
+Mauritania,MR,MRT,478,AFR
+Mauritius,MU,MUS,480,AFR
+Mexico,MX,MEX,484,AMR
+Micronesia (Federated States of),FM,FSM,583,WPR
+Monaco,MC,MCO,492,EUR
+Mongolia,MN,MNG,496,WPR
+Montenegro,ME,MNE,499,EUR
+Montserrat,MS,MSR,500,AMR
+Morocco,MA,MAR,504,EMR
+Mozambique,MZ,MOZ,508,AFR
+Myanmar,MM,MMR,104,SEA
+Namibia,NA,NAM,516,AFR
+Nauru,NR,NRU,520,WPR
+Nepal,NP,NPL,524,SEA
+Netherlands Antilles,AN,ANT,530,AMR
+Netherlands,NL,NLD,528,EUR
+New Caledonia,NC,NCL,540,WPR
+New Zealand,NZ,NZL,554,WPR
+Nicaragua,NI,NIC,558,AMR
+Niger,NE,NER,562,AFR
+Nigeria,NG,NGA,566,AFR
+Niue,NU,NIU,570,WPR
+Northern Mariana Islands,MP,MNP,580,WPR
+Norway,NO,NOR,578,EUR
+Oman,OM,OMN,512,EMR
+Pakistan,PK,PAK,586,EMR
+Palau,PW,PLW,585,WPR
+Panama,PA,PAN,591,AMR
+Papua New Guinea,PG,PNG,598,WPR
+Paraguay,PY,PRY,600,AMR
+Peru,PE,PER,604,AMR
+Philippines,PH,PHL,608,WPR
+Poland,PL,POL,616,EUR
+Portugal,PT,PRT,620,EUR
+Puerto Rico,PR,PRI,630,AMR
+Qatar,QA,QAT,634,EMR
+Republic of Korea,KR,KOR,410,WPR
+Republic of Moldova,MD,MDA,498,EUR
+Romania,RO,ROU,642,EUR
+Russian Federation,RU,RUS,643,EUR
+Rwanda,RW,RWA,646,AFR
+Saint Kitts and Nevis,KN,KNA,659,AMR
+Saint Lucia,LC,LCA,662,AMR
+Saint Vincent and the Grenadines,VC,VCT,670,AMR
+Samoa,WS,WSM,882,WPR
+San Marino,SM,SMR,674,EUR
+Sao Tome and Principe,ST,STP,678,AFR
+Saudi Arabia,SA,SAU,682,EMR
+Senegal,SN,SEN,686,AFR
+Serbia & Montenegro,YU,SCG,891,EUR
+Serbia,RS,SRB,688,EUR
+Seychelles,SC,SYC,690,AFR
+Sierra Leone,SL,SLE,694,AFR
+Singapore,SG,SGP,702,WPR
+Sint Maarten (Dutch part),SX,SXM,534,AMR
+Slovakia,SK,SVK,703,EUR
+Slovenia,SI,SVN,705,EUR
+Solomon Islands,SB,SLB,90,WPR
+Somalia,SO,SOM,706,EMR
+South Africa,ZA,ZAF,710,AFR
+South Sudan,SS,SSD,728,AFR
+Spain,ES,ESP,724,EUR
+Sri Lanka,LK,LKA,144,SEA
+Sudan,SD,SDN,729,EMR
+Suriname,SR,SUR,740,AMR
+Swaziland,SZ,SWZ,748,AFR
+Sweden,SE,SWE,752,EUR
+Switzerland,CH,CHE,756,EUR
+Syrian Arab Republic,SY,SYR,760,EMR
+Tajikistan,TJ,TJK,762,EUR
+Thailand,TH,THA,764,SEA
+The Former Yugoslav Republic of Macedonia,MK,MKD,807,EUR
+Timor-Leste,TL,TLS,626,SEA
+Togo,TG,TGO,768,AFR
+Tokelau,TK,TKL,772,WPR
+Tonga,TO,TON,776,WPR
+Trinidad and Tobago,TT,TTO,780,AMR
+Tunisia,TN,TUN,788,EMR
+Turkey,TR,TUR,792,EUR
+Turkmenistan,TM,TKM,795,EUR
+Turks and Caicos Islands,TC,TCA,796,AMR
+Tuvalu,TV,TUV,798,WPR
+Uganda,UG,UGA,800,AFR
+Ukraine,UA,UKR,804,EUR
+United Arab Emirates,AE,ARE,784,EMR
+United Kingdom of Great Britain and Northern Ireland,GB,GBR,826,EUR
+United Republic of Tanzania,TZ,TZA,834,AFR
+United States of America,US,USA,840,AMR
+Uruguay,UY,URY,858,AMR
+US Virgin Islands,VI,VIR,850,AMR
+Uzbekistan,UZ,UZB,860,EUR
+Vanuatu,VU,VUT,548,WPR
+Venezuela (Bolivarian Republic of),VE,VEN,862,AMR
+Viet Nam,VN,VNM,704,WPR
+Wallis and Futuna Islands,WF,WLF,876,WPR
+West Bank and Gaza Strip,PS,PSE,275,EMR
+Yemen,YE,YEM,887,EMR
+Zambia,ZM,ZMB,894,AFR
+Zimbabwe,ZW,ZWE,716,AFR
