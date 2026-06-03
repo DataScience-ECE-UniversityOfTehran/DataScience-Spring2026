@@ -1,29 +1,171 @@
-# Course Material
+# 📊 Foundations of Data Science – Spring 2026
 
-- [Description](Description.pdf)
-- [Calendar](https://docs.google.com/spreadsheets/d/1XghPLlAPO-Mx15uCctyalaiT2wGaIOZR7BbLJtvIXzM/edit?usp=sharing)
-- [Guidelines](Guidelines.pdf)
-- [Prof. Bahrak's Youtube Channel](https://www.youtube.com/@BahrakCourses)
+> Official course repository for **Foundations of Data Science**  
+> University of Tehran — Spring 2026  
+> Instructor: **Prof. Bahrak**  
+> Maintained by the **Chief TA**
 
+---
 
-# Course Schedule
+## 📘 Course Essentials
 
-| Week | Lectures | Videos/Additional Resources | Assignments | Assignments Related Videos |
-|------|-----|-----|-----|-----|
-| 1 |[Introduction – Data science lifecycle](lectures/Lecture%2001.%20Data%20Science%20Lifecycle.pdf) | [Python for Data Science](https://www.youtube.com/watch?v=WKz5nicREKQ&list=PLdSslhDhrVc7N0XQTfU55RuL1THU2l0B-&pp=gAQB) <br> [Probability & Statistics Review](https://www.youtube.com/watch?v=Lqexyj6h5dQ&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG) <br>  [Python for Data Science NoteBooks](Python%20for%20Data%20Science%20Notebooks)| | |
-| 2 |[Sampling and Statistical Charts](lectures/Lecture%2002.%20Statistical%20Charts.pdf) |[Sampling](https://www.youtube.com/watch?v=koeAIG38Hzc) <br> [Correlation and Causation](https://www.youtube.com/watch?v=WAnHl3Rps2s) <br> [Sampling Strategies](https://www.youtube.com/watch?v=Bji2BfPsu6Q) <br> [Observational vs. Experimental](https://www.youtube.com/watch?v=0D2U_xPl00g) <br> [Numerical Variables Visualization](https://www.youtube.com/watch?v=jzAK4xpwGus) <br> [Shape of Numerical Distributions](https://www.youtube.com/watch?v=tLWm8MGUqds) <br> [Data Transformation](https://www.youtube.com/watch?v=71kkJ2jp7KM) <br> [Categorical Variables Visualization](https://www.youtube.com/watch?v=CGfzEvpRQPQ)| | |
-| 3 | [Review of Probability](lectures/Lecture%2003.%20A%20Review%20of%20Probability%20Theory.pdf)|[Probability Definition](https://www.youtube.com/watch?v=QIpoxoCGgtU) <br> [Independence](https://www.youtube.com/watch?v=cMGVMIo4RMw) <br> [Conditional Probability](https://www.youtube.com/watch?v=QKIBHCjb4g0) <br> [Random Variable](https://www.youtube.com/watch?v=Q0dlO2ErX08) <br> [Normal Distribution](https://www.youtube.com/watch?v=WxafZIrjwOQ)   <br> [Types of Error](https://www.youtube.com/watch?v=SaEuHkXolM0) <br> [Q-Q Plot](https://www.youtube.com/watch?v=6U8LI1VYEeg) <br> [Monte Carlo Simulation](https://www.youtube.com/watch?v=iZULlaZRvR0)  | [CA0](Assignments/CA0)| [CA0 Related Materials](More%20Resources/CA0) | |
-| 4 | [Foundations for Inference](lectures/Lecture%2004.%20Foundations%20for%20Inference.pdf) <br> [Visualization Design Principles](lectures/Lecture%2004.%20Visualization%20Design%20Principles.pdf) | [Confidence Interval](https://www.youtube.com/watch?v=xm6qVNtAUNk) <br> [Central Limit Theorem](https://www.youtube.com/watch?v=chVvpvDMrV4) <br> [Hypothesis Testing](https://www.youtube.com/watch?v=r4RdP73fAFM) <br> [Visualising Numerical Features](https://www.youtube.com/watch?v=jzAK4xpwGus) | [Project-Phase 0](Final%20Project/P1.pdf)  |[PowerBI-Final Project P0 Related video](More%20Resources/PowerBI) <br>[Web Scraping-Final Project P0 Related video](More%20Resources/WebScraping)  |
-| 5 |[Preattentive Attributes](lectures/Lecture%2005.%20Preattentive%20attributes.pdf) <br> [Linear Regression(optional)](lectures/Lecture%2005.%20Linear%20Regression.pdf) <br> [Dashboards and Storytelling](lectures/Lecture%2005.%20Dashboards%20and%20Storytelling.pdf)|[Tableau](https://www.youtube.com/watch?v=201cExJMT74) <br> [Import datasets into Tableau]() <br> [Effective visualization methods in Tableau](https://www.youtube.com/watch?v=Z437c0K-ohs) <br> [Abnormality diagnosis with the help of visualization](https://www.youtube.com/watch?v=dIesEUXBcSc) <br> [statistical charts in Tableau](https://www.youtube.com/watch?v=xyEZCrcuie8) <br> [Creating KPI](https://www.youtube.com/watch?v=OTtN4InuwUI) <br> [Creating dashboard](https://www.youtube.com/watch?v=u4rCsDJR_7s) <br> [Introduction to Linear Regression](https://www.youtube.com/watch?v=0HRnD_3zN3w) <br> [Hypothesis Testing for Linear Regression](https://www.youtube.com/watch?v=KRZ9C5ngQio) <br> [Multiple Linear Regression](https://www.youtube.com/watch?v=Lv27Am1BUaM)|[CA1](Assignments/CA1)|[Sampling - CA1 Related video](https://drive.google.com/drive/u/0/mobile/folders/1bhqIWKyl-7DyJMtdufy9scirBS5jspi3?usp=sharing) |
-| 6 |[Cognitive AI (Optional)]() |[Cognitive AI Workshop](https://drive.google.com/file/d/1VSrj2L45gC6h6suIXTn6jsysze6-Ixej/view?usp=sharing) | [Project-Phase 1](Final%20Project/P2.pdf)| |
-| 7 |[SQL-1](lectures/Lecture%2006.%20SQL-1.pdf) <br> [SQL-2](lectures/Lecture%2006.%20SQL-2.pdf) |[SQL](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=sql_part2.mkv&rlkey=vqad3zy64ub1a7lqa9wdpi4qq)|[CA2](Assignments/CA2/DS-CA2.zip) |
-| 8 |[Big Data](lectures/Lecture%2007.%20Big%20Data.pdf) <br> [Data Cleaning and EDA](lectures/Lecture%2007.%20Data%20Preprocessing.pdf)|[Big Data](https://1drv.ms/v/c/6e47bfdd41a25f50/ERfx_Jm87XdEvpqy8PzT9xYBcle9iJBoQIFcrCe644dgag?e=b9VNJ1) <br> [Data Cleaning and EDA](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=data_cleaning_eda.mkv&rlkey=vqad3zy64ub1a7lqa9wdpi4qq)||
-| 9 |[Modeling](lectures/Lecture%2008.%20modeling_slr.pdf) <br> [Gradient Descent](lectures/Lecture%2008.%20Gradient_descent.pdf) <br> [Logistic Regression](lectures/Lecture%2008.%20logistic%20regression.pdf) | [Modeling](https://1drv.ms/v/c/6e47bfdd41a25f50/EdV98QSSfLlMnQRhY4tRceMBPdke5Vgs4fzhstb6MT3_7Q?e=gCmgzc) <br> [Gradient Descent-1](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=gradient_descent_part1.mkv&rlkey=vqad3zy64ub1a7lqa9wdpi4qq) <br> [Gradient Descent-2](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=gradient_descent_part2.mkv&rlkey=vqad3zy64ub1a7lqa9wdpi4qq) ||
-| 10 |[Sklearn Feature Engineering](lectures/Lecture%2009-01.%20sklearn_feature%20engineering.pdf) <br> [Logistic Regression](lectures/Lecture%2009-02.%20logistic%20regression.pdf) <br> [Cross Validation and Regularization](lectures/Lecture%2009-03.%20cross_validation_regularization.pdf) <br> [SVM & KNN](lectures/Lecture%2009-04.%20svm%20and%20knn.pdf) <br> [Decision Tree and Random Forest](lectures/Lecture%2009-05.%20decision_tree%20and%20random_forest.pdf)|[Logistic Regression](https://www.youtube.com/watch?v=P23FJw0xkLU) <br> [SoftMax Classifier](https://youtu.be/fVIZp8ZOJ9Y?si=m2Xe7dt4XPtVtcqx) <br> [SVM (linear)](https://youtu.be/kkznu_1tcg0?si=73vud0ooW1m7DWTt) <br> [Decision Trees](https://youtu.be/gCkVIPLTEes?si=Jf6UP0CAjtOtvw2h) <br> [Decision Trees Regularization](https://youtu.be/Mb0AJZmS6fo?si=L8dWnXjpM6jwooXT) <br> [Ensemble Learning](https://youtu.be/_h92mkuhrp8?si=R7IMZUprPe5pv68X) <br> [Bagging & Boosting](https://youtu.be/wm3emxvhxGw?si=CGfucVYBn_-mS6Ev) <br> [Decision Tree2(Optional)](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=DTs.mkv&rlkey=vqad3zy64ub1a7lqa9wdpi4qq) <br> [Cross Validation & Regularization](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=cross_validation_regularization.mkv&rlkey=vqad3zy64ub1a7lqa9wdpi4qq) <br> [Performance Metrics](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=performance_metrics.mp4&rlkey=vqad3zy64ub1a7lqa9wdpi4qq)| [CA3](Assignments/CA3/DS-CA3.pdf)||
-| 11 |[Neural Networks](lectures/Lecture%2010.%20NNs.pdf) <br> [CNNs](lectures/Lecture%2010.%20CNNs.pdf)|[Neural Networks](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=NNs.mkv&rlkey=vqad3zy64ub1a7lqa9wdpi4qq) <br> [CNNs](https://www.youtube.com/watch?v=ioQd12z4pvg) <br> [Implementing CNNs using Keras](https://www.youtube.com/watch?v=XRdVQRNGctY) <br> [Pooling Layers](https://www.youtube.com/watch?v=hVKHE59ATrU) <br> [CNN Architectures](https://www.youtube.com/watch?v=7TnS03MTNvM)|[Project-Phase 2](Final%20Project/P2.pdf)|
-| 12 |[RNNs](lectures/Lecture%2011.%20RNNs.pdf) <br> [NLP](lectures/Lecture%2011.%20NLP.pdf)|[RNNs-1](https://www.youtube.com/watch?v=cHQC8O8cy48&list=PLdSslhDhrVc55hzIJ245efXSyXbUedl2v&index=84) <br> [RNNs-2](https://www.youtube.com/watch?v=geWxEMqPCO8&list=PLdSslhDhrVc55hzIJ245efXSyXbUedl2v&index=85) <br>[NLP-1](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=NLP_part1.mkv&rlkey=vqad3zy64ub1a7lqa9wdpi4qq) <br> [NLP-2](https://www.dropbox.com/scl/fo/r8j0svv98bzkvwh7s89zq/ADBLUG2mnBMXd6yKwMX2PCU?dl=0&e=1&preview=NLP_part2.mkv&rlkey=vqad3zy64ub1a7lqa9wdpi4qq)|[CA4](Assignments/CA4)|
-| 13 |[LMs](lectures/Lecture%2012.%20LMs.pdf)  |||
-| 14 |[LLM Agents(just Part1&2)](lectures/Lecture%2013.%20LLM%20Agents.pdf) <br> [Unsupervised Learning](lectures/Lecture%2013.%20Unsupervised%20Learning.pdf)| [LLM Agents](https://youtu.be/BRixDoscyEM) <br> [Dimensionality Reduction](https://www.youtube.com/watch?v=8G6HNKGUyHA) <br> [PCA](https://www.youtube.com/watch?v=nv0DRL6l9-4) <br> [Random Projection](https://www.youtube.com/watch?v=IzwjWTTAlPs) <br> [LLE (Optional)](https://www.youtube.com/watch?v=R1saz5q_B5k) <br> [K-Means](https://www.youtube.com/watch?v=hry98otbsHE) <br> [Choosing Correct Number of Clusters](https://www.youtube.com/watch?v=1rYDDl-L_14) <br> [Clustering Applications](https://www.youtube.com/watch?v=otMZyWATjKg) <br> [DBScan](https://www.youtube.com/watch?v=zuTXL_49ANw&list=PLdSslhDhrVc55hzIJ245efXSyXbUedl2v&index=54)||
-| 15 |[Project-Presentation](Final%20Project/Presentations)||[CA5](Assignments/CA5) |
-| 16 |[Project-Presentation](Final%20Project/Presentations)|||
-| 17 |[Final Sample Questions](lectures/Lecture%2014.%20Final%20Sample%20Questions.pdf) <br> [Data Science Applications (Optional)](lectures/Lecture%2014.%20DS%20Applications.pdf)|[A Guide to Feature Extraction](https://drive.google.com/drive/folders/19a2uekayzWK4jocJtFE4UPd-nWuCvaT9?usp=share_link)||
+| Document | File |
+|----------|------|
+| Course Description & Policies | [`Description.pdf`](Description.pdf) |
+| Assignment Guidelines | [`Guidelines.pdf`](Guidelines.pdf) |
+| Detailed Calendar (Google Sheets) | [Open Calendar](https://docs.google.com/spreadsheets/d/1XghPLlAPO-Mx15uCctyalaiT2wGaIOZR7BbLJtvIXzM/edit?usp=sharing) |
+| YouTube Channel | [@BahrakCourses](https://www.youtube.com/@BahrakCourses) |
+| License | [LICENSE](LICENSE) |
+
+---
+
+## 🧭 Quick Navigation
+
+- [📊 Foundations of Data Science – Spring 2026](#-foundations-of-data-science--spring-2026)
+  - [📘 Course Essentials](#-course-essentials)
+  - [🧭 Quick Navigation](#-quick-navigation)
+  - [📅 Weekly Schedule](#-weekly-schedule)
+  - [🎓 Lecture Slides](#-lecture-slides)
+  - [💻 Computer Assignments](#-computer-assignments)
+  - [🏆 Final Project](#-final-project)
+  - [📂 More Resources](#-more-resources)
+    - [📊 Power BI](#-power-bi)
+    - [📐 Sampling](#-sampling)
+    - [🧪 CA0 Helpers](#-ca0-helpers)
+    - [🕸️ Web Scraping](#️-web-scraping)
+    - [🤖 MLOps](#-mlops)
+    - [🌐 Web Scraping (zip)](#-web-scraping-zip)
+  - [🐍 Python for Data Science Notebooks](#-python-for-data-science-notebooks)
+  - [📜 License](#-license)
+
+---
+
+## 📅 Weekly Schedule
+
+| Week | Topic (Slides) | Assignments & Project | Extra Resources |
+|:----:|:---------------|:----------------------|:----------------|
+| 1 | **Introduction – Data Science Lifecycle**<br>`Lecture 01. Data Science Lifecycle.pdf` | – | Python for DS Notebooks |
+| 2 | **Statistical Charts**<br>`Lecture 02. Statistical Charts.pdf` | – | – |
+| 3 | **Review of Probability Theory**<br>`Lecture 03. A Review of Probability Theory.pdf` | **CA0 released** | `More Resources/CA0/` |
+| 4 | **Foundations for Inference**<br>`Lecture 04. Foundations for Inference.pdf`<br>**Visualization Design Principles**<br>`Lecture 05. Visualization Design Principles.pdf` | – | – |
+| 5 | **Preattentive Attributes**<br>`Lecture 06. Preattentive attributes.pdf`<br>**Dashboards & Storytelling**<br>`Lecture 07. Dashboards and Storytelling.pdf` | **CA1 released** | `More Resources/PowerBI/`<br>`More Resources/Sampling/` |
+| 6 | **SQL – Part 1 & 2**<br>`Lecture 09. SQL-1.pdf`<br>`Lecture 09. SQL-2.pdf` | **CA2 released** | – |
+| 7 | **Big Data**<br>`Lecture 10. Big Data.pdf` | **Final Project Phase 1** | – |
+| 8 | **Linear Regression**<br>`Lecture 08. Linear Regression.pdf` | – | – |
+| 9 | **Modeling, SLR, Loss**<br>`Lecture 11. Modeling, SLR, Loss.pptx` | **CA3 released** | – |
+| 10 | **Gradient Descent**<br>`Lecture 12. Gradient descent.pptx`<br>**Logistic Regression (intro)**<br>`Lecture 13. Logistic regression.pptx` | – | – |
+| 11 | **Regression (Advanced)**<br>`Lecture 14. Regression.pdf`<br>**SVM & KNN**<br>`Lecture 14. SVM_KNN.pdf` | **CA4 released**<br>**Final Project Phase 2** | – |
+| 12 | **MLOps**<br>`Lecture 15. MLOps.pptx`<br>**Neural Networks**<br>`Lecture 16. NNs.pptx` | – | `More Resources/MLOps-20260603.zip` |
+| 13 | **Project Work / Review** | – | – |
+| 14 | – | **CA5 (optional)** | – |
+| 15 | **Final Project Presentations** | – | – |
+| 16 | **Final Project Presentations** | – | – |
+
+> 🗓️ Deadlines here are indicative. The real timeline evolved organically during the semester with several extensions.
+
+---
+
+## 🎓 Lecture Slides
+
+All slides are in the [`lectures/`](lectures/) folder:
+
+| # | File |
+|---|------|
+| 01 | `Lecture 01. Data Science Lifecycle.pdf` |
+| 02 | `Lecture 02. Statistical Charts.pdf` |
+| 03 | `Lecture 03. A Review of Probability Theory.pdf` |
+| 04 | `Lecture 04. Foundations for Inference.pdf` |
+| 05 | `Lecture 05. Visualization Design Principles.pdf` |
+| 06 | `Lecture 06. Preattentive attributes.pdf` |
+| 07 | `Lecture 07. Dashboards and Storytelling.pdf` |
+| 08 | `Lecture 08. Linear Regression.pdf` |
+| 09 | `Lecture 09. SQL-1.pdf` & `Lecture 09. SQL-2.pdf` |
+| 10 | `Lecture 10. Big Data.pdf` |
+| 11 | `Lecture 11. Modeling, SLR, Loss.pptx` |
+| 12 | `Lecture 12. Gradient descent.pptx` |
+| 13 | `Lecture 13. Logistic regression.pptx` |
+| 14 | `Lecture 14. Regression.pdf` & `Lecture 14. SVM_KNN.pdf` |
+| 15 | `Lecture 15. MLOps.pptx` |
+| 16 | `Lecture 16. NNs.pptx` |
+
+---
+
+## 💻 Computer Assignments
+
+| CA | Folder | Contents |
+|:--:|:-------|:---------|
+| **CA0** | [`Assignments/CA0/`](Assignments/CA0/) | `CA0.pdf`, `CA0.ipynb`<br>Datasets: `2016-general-election-trump-vs-clinton.csv`, `drug_safety.csv` |
+| **CA1** | [`Assignments/CA1/`](Assignments/CA1/) | `CA1.pdf`, `codal_news_dashboard.pbix`<br>Data: `khodro_final_daily.csv`, `Coordinate.csv`, `Region.csv`, `TB_Burden_Country.csv`, `column_descriptions.xlsx` |
+| **CA2** | [`Assignments/CA2/`](Assignments/CA2/) | `CA2.pdf`, `Ashpaz.py`, `zomato.csv`, `historical_data.json`<br>JARs: `jars/` (Kafka, Spark, etc.) |
+| **CA3** | [`Assignments/CA3/`](Assignments/CA3/) | `CA3.pdf` + three task dataset zips |
+| **CA4** | [`Assignments/CA4/`](Assignments/CA4/) | `DS-CA4.pdf`, `CA4.txt`, `california_housing.csv`, `assistments2017.csv` |
+| **CA5** | [`Assignments/CA5/`](Assignments/CA5/) | `CA5.txt` (optional final assignment) |
+
+---
+
+## 🏆 Final Project
+
+| Phase | Description | File |
+|:-----:|:------------|:-----|
+| Phase 1 | Topic proposal & data collection | [`Final Project/P1.pdf`](Final%20Project/P1.pdf) |
+| Phase 2 | Modeling & final report | [`Final Project/P2.pdf`](Final%20Project/P2.pdf) |
+| Presentations | Final delivery | [`Final Project/Presentations/`](Final%20Project/Presentations/) (placeholder) |
+
+---
+
+## 📂 More Resources
+
+### 📊 Power BI
+[`More Resources/PowerBI/`](More%20Resources/PowerBI/)  
+`Sample_Dashbord.pbix`, `V2.mkv` – sample dashboard and tutorial.
+
+### 📐 Sampling
+[`More Resources/Sampling/`](More%20Resources/Sampling/)  
+`sampling.pptx`, `sampling.mp4` – extra material for CA1.
+
+### 🧪 CA0 Helpers
+[`More Resources/CA0/`](More%20Resources/CA0/)  
+Jupyter notebooks on CLT, confidence intervals, t‑tests, power analysis, and a sample solution.
+
+### 🕸️ Web Scraping
+[`More Resources/WebScraping/`](More%20Resources/WebScraping/)  
+`BS4.ipynb`, `Selenium.ipynb`, `clothes.zip`, `Data-FinalProject.mp4`.
+
+### 🤖 MLOps
+[`More Resources/MLOps-20260603.zip`](More%20Resources/MLOps-20260603.zip)  
+Workshop materials (compressed).
+
+### 🌐 Web Scraping (zip)
+[`More Resources/Web Scraping-20260603.zip`](More%20Resources/Web%20Scraping-20260603.zip)  
+Additional packed scraping content.
+
+---
+
+## 🐍 Python for Data Science Notebooks
+
+Progressive Jupyter notebooks covering Python essentials:
+
+```
+Python for Data Science Notebooks/
+├── 1.Data Types.ipynb
+├── 2.Statements-Files.ipynb
+├── 3.Functions.ipynb
+├── 4.OOP.ipynb
+├── 5.Exceptions.ipynb
+├── 6.NumPy.ipynb
+├── 7.Pandas.ipynb
+└── 8.Matplotlib.ipynb
+```
+
+Start here if you need a Python refresher before diving into the assignments.
+
+---
+
+## 📜 License
+
+This repository is shared under the [LICENSE](LICENSE) file.  
+Please respect academic integrity when reusing materials.
+
+---
+
+<p align="center">Made with ❤️ for students of Spring 2026</p>
