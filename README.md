@@ -91,7 +91,12 @@ All slides are in the [`lectures/`](lectures/) folder:
 | 14 | [`Lecture 14. Regression.pdf`](lectures/Lecture%2014.%20Regression.pdf) & [`Lecture 14. SVM_KNN.pdf`](lectures/Lecture%2014.%20SVM_KNN.pdf) |
 | 15 | [`Lecture 15. MLOps.pptx`](lectures/Lecture%2015.%20MLOps.pptx) |
 | 16 | [`Lecture 16. NNs.pptx`](lectures/Lecture%2016.%20NNs.pptx) |
-
+| 17 | [`Lecture 17. CNNs RNNs.pptx`](lectures/Lecture%2017.%20CNNs%20RNNs.pptx) |
+| 18 | [`Lecture 18. LLMs.pptx`](lectures/Lecture%2018.%20LLMs.pptx) |
+| 19 | [`Lecture 19. RAG, Agents.pptx`](lectures/Lecture%2019.%20RAG%2C%20Agents.pptx) |
+| 20 | [`Lecture 20. Dimesionality reduction, Kmeans.pptx`](lectures/Lecture%2020.%20Dimesionality%20reduction%2C%20Kmeans.pptx) |
+| 21 | [`Lecture 21. Interpretablity.pptx`](lectures/Lecture%2021.%20Interpretablity.pptx) |
+| 22 | [`Lecture 22. Ethics.pptx`](lectures/Lecture%2022.%20Ethics.pptx) |
 ---
 
 ## 💻 Computer Assignments
@@ -103,7 +108,7 @@ All slides are in the [`lectures/`](lectures/) folder:
 | **CA2** | [`Assignments/CA2/`](Assignments/CA2/) | `CA2.pdf`, `Ashpaz.py`, `zomato.csv`, `historical_data.json`<br>JARs: `jars/` (Kafka, Spark, etc.) |
 | **CA3** | [`Assignments/CA3/`](Assignments/CA3/) | `CA3.pdf` + three task dataset zips |
 | **CA4** | [`Assignments/CA4/`](Assignments/CA4/) | `DS-CA4.pdf`, `CA4.txt`, `california_housing.csv`, `assistments2017.csv` |
-| **CA5** | [`Assignments/CA5/`](Assignments/CA5/) | `CA5.txt` (optional final assignment) |
+| **CA5** | [`Assignments/CA5/`](Assignments/CA5/) | `CA5.pdf` (optional final assignment) |
 
 ---
 
@@ -113,6 +118,7 @@ All slides are in the [`lectures/`](lectures/) folder:
 |:-----:|:------------|:-----|
 | Phase 1 | Topic proposal & data collection | [`Final Project/P1.pdf`](Final%20Project/P1.pdf) |
 | Phase 2 | Modeling & final report | [`Final Project/P2.pdf`](Final%20Project/P2.pdf) |
+| Phase 3 | Final deliverables & presentation prep | [`Final Project/P3.pdf`](Final%20Project/P3.pdf) |
 | Presentations | Final delivery | [`Final Project/Presentations/`](Final%20Project/Presentations/) (placeholder) |
 
 ---
