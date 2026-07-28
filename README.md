@@ -3,16 +3,16 @@
 
 > Official course repository for **Foundations of Data Science**  
 > University of Tehran — Spring 2026  
-> Instructors: **Dr. Razavi, Dr. Yaghoobzadeh**  
-> Chief TAs: [**Mostafa Kermani Nia**](https://github.com/mostafa-kermaninia) , [**Mohammad Amanlou**](https://github.com/MohammadAmanlou)
+> Instructors: [**Prof. Yadollah Yaghoobzadeh**](https://scholar.google.com/citations?user=TvGqaqAAAAAJ&hl=en) , [**Dr. S.Fatemeh Razavi**](https://scholar.google.com/citations?user=P-xAp6gAAAAJ&hl=en)
 
+> Chief TAs: [**Mostafa Kermani Nia**](https://www.linkedin.com/in/mostafakermaninia/) , [**Mohammad Amanlou**](https://www.linkedin.com/in/mohammad-amanlou-220b0121a/)
 ---
 
 ## 📘 Course Essentials
 
 | Document | File |
 |----------|------|
-| Course Description & Policies | [`Description.pdf`](Description.pdf) |
+| Course Description & Staff | [`Description.pdf`](Description.pdf) |
 | Assignment Guidelines | [`Guidelines.pdf`](Guidelines.pdf) |
 | Detailed Calendar (Google Sheets) | [Open Calendar](https://docs.google.com/spreadsheets/d/1XghPLlAPO-Mx15uCctyalaiT2wGaIOZR7BbLJtvIXzM/edit?usp=sharing) |
 | YouTube Channel | [@BahrakCourses](https://www.youtube.com/@BahrakCourses) |
