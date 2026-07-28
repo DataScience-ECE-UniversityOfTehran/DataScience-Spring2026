@@ -58,9 +58,9 @@
 | 11 | **Regression (Advanced)**<br>[`Lecture 14. Regression.pdf`](lectures/Lecture%2014.%20Regression.pdf)<br>**SVM & KNN**<br>[`Lecture 14. SVM_KNN.pdf`](lectures/Lecture%2014.%20SVM_KNN.pdf) | [**CA4 released**](Assignments/CA4/)<br>[**Final Project Phase 2**](Final%20Project/P2.pdf) | – |
 | 12 | **MLOps**<br>[`Lecture 15. MLOps.pptx`](lectures/Lecture%2015.%20MLOps.pptx)<br>**Neural Networks**<br>[`Lecture 16. NNs.pptx`](lectures/Lecture%2016.%20NNs.pptx) | – | [`More Resources/MLOps-20260603.zip`](More%20Resources/MLOps-20260603.zip) |
 | 13 | **CNNs & RNNs**<br>[`Lecture 17. CNNs RNNs.pptx`](lectures/Lecture%2017.%20CNNs%20RNNs.pptx)<br>**LLMs**<br>[`Lecture 18. LLMs.pptx`](lectures/Lecture%2018.%20LLMs.pptx) | – | – |
-| 14 | **RAG & Agents**<br>[`Lecture 19. RAG, Agents.pptx`](lectures/Lecture%2019.%20RAG%2C%20Agents.pptx)<br>**Unsupervised Learning**<br>[`Lecture 20. Dimesionality reduction, Kmeans.pptx`](lectures/Lecture%2020.%20Dimesionality%20reduction%2C%20Kmeans.pptx) | – | – |
-| 15 | **Interpretability & Ethics**<br>[`Lecture 21. Interpretablity.pptx`](lectures/Lecture%2021.%20Interpretablity.pptx)<br>[`Lecture 22. Ethics.pptx`](lectures/Lecture%2022.%20Ethics.pptx) | – | – |
-| 16 | **Review / Project Work** | [**CA5 (optional)**](Assignments/CA5/) | – |
+| 14 | **RAG & Agents**<br>[`Lecture 19. RAG, Agents.pptx`](lectures/Lecture%2019.%20RAG%2C%20Agents.pptx)<br>**Unsupervised Learning**<br>[`Lecture 20. Dimesionality reduction, Kmeans.pptx`](lectures/Lecture%2020.%20Dimesionality%20reduction%2C%20Kmeans.pptx) | [**CA5 (optional)**](Assignments/CA5/) | – |
+| 15 | **Interpretability**<br>[`Lecture 21. Interpretablity.pptx`](lectures/Lecture%2021.%20Interpretablity.pptx)<br>**Ethics**<br>[`Lecture 22. Ethics.pptx`](lectures/Lecture%2022.%20Ethics.pptx) | [**Final Project Phase 3**](Final%20Project/P3.pdf) | – |
+| 16 | **Final Exam**<br>[`Final Exam Questions`](Final%20Exam/Final.pdf) | – | [`Sample Questions`](Final%20Exam/Final%20Sample%20Questions/) |
 | 17 | **Final Project Presentations** | – | – |
 | 18 | **Final Project Presentations** | – | – |
 
