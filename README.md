@@ -57,10 +57,13 @@
 | 10 | **Gradient Descent**<br>[`Lecture 12. Gradient descent.pptx`](lectures/Lecture%2012.%20Gradient%20descent.pptx)<br>**Logistic Regression (intro)**<br>[`Lecture 13. Logistic regression.pptx`](lectures/Lecture%2013.%20Logistic%20regression.pptx) | – | – |
 | 11 | **Regression (Advanced)**<br>[`Lecture 14. Regression.pdf`](lectures/Lecture%2014.%20Regression.pdf)<br>**SVM & KNN**<br>[`Lecture 14. SVM_KNN.pdf`](lectures/Lecture%2014.%20SVM_KNN.pdf) | [**CA4 released**](Assignments/CA4/)<br>[**Final Project Phase 2**](Final%20Project/P2.pdf) | – |
 | 12 | **MLOps**<br>[`Lecture 15. MLOps.pptx`](lectures/Lecture%2015.%20MLOps.pptx)<br>**Neural Networks**<br>[`Lecture 16. NNs.pptx`](lectures/Lecture%2016.%20NNs.pptx) | – | [`More Resources/MLOps-20260603.zip`](More%20Resources/MLOps-20260603.zip) |
-| 13 | **Project Work / Review** | – | – |
-| 14 | – | [**CA5 (optional)**](Assignments/CA5/) | – |
-| 15 | **Final Project Presentations** | – | – |
-| 16 | **Final Project Presentations** | – | – |
+| 13 | **CNNs & RNNs**<br>[`Lecture 17. CNNs RNNs.pptx`](lectures/Lecture%2017.%20CNNs%20RNNs.pptx)<br>**LLMs**<br>[`Lecture 18. LLMs.pptx`](lectures/Lecture%2018.%20LLMs.pptx) | – | – |
+| 14 | **RAG & Agents**<br>[`Lecture 19. RAG, Agents.pptx`](lectures/Lecture%2019.%20RAG%2C%20Agents.pptx)<br>**Unsupervised Learning**<br>[`Lecture 20. Dimesionality reduction, Kmeans.pptx`](lectures/Lecture%2020.%20Dimesionality%20reduction%2C%20Kmeans.pptx) | – | – |
+| 15 | **Interpretability & Ethics**<br>[`Lecture 21. Interpretablity.pptx`](lectures/Lecture%2021.%20Interpretablity.pptx)<br>[`Lecture 22. Ethics.pptx`](lectures/Lecture%2022.%20Ethics.pptx) | – | – |
+| 16 | **Review / Project Work** | [**CA5 (optional)**](Assignments/CA5/) | – |
+| 17 | **Final Project Presentations** | – | – |
+| 18 | **Final Project Presentations** | – | – |
+
 
 > 🗓️ Deadlines here are indicative. The real timeline evolved organically during the semester with several extensions.
 
